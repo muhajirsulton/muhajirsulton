@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate with anyone if you please.
-- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/sultonmuhajir)
+- 📕 List of projects I made: [Link](https://sultonmuhajir.github.io/dev/)
